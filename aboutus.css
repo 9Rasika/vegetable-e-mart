@@ -1,0 +1,53 @@
+.about {
+    background-color: whitesmoke;
+    padding: 50px 0;
+  }
+  
+  .container {
+    color: black;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: black;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    justify-content: space-between;
+  }
+  .col-md-6 {
+    flex-basis: 45%;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+  }
+   
